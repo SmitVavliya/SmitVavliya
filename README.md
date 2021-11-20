@@ -22,21 +22,24 @@
     <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" style="max-width: 100%;"/>
 </a>
 
-## About Me <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
+## About Me 🚀
 🎓 An Engineering and Product enthusiast, highly motivated and interested in Software Development and solving problems for the people and building something which they need with the help of Technology and Applications. I believe that an undeterred will can overcome any kind of bug in code and obstacle in life.
 <br/>
 🎓 My love towards technology and Product Development, in particular, is immense and drives me ahead trying to make this world a better place for everyone.
 
 ## Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="max-width: 100%;">
-#### - Programming Languages
+- **Programming Languages**
+<ul>
 <a target="_blank" rel="noopener noreferrer" href="">
    <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="">
    <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/>
 </a>
+</ul>
 
-#### - Frontend Development
+- **Frontend Development**
+<ul>
 <a target="_blank" rel="noopener noreferrer" href="">
    <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"/>
 </a>
@@ -52,8 +55,10 @@
 <a target="_blank" rel="noopener noreferrer" href="">
    <img height="35" width="50" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize-css"/>
 </a>
+</ul>
 
-#### - Backend Development
+- **Backend Development**
+<ul>
 <a target="_blank" rel="noopener noreferrer" href="">
    <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/>
 </a>
@@ -63,13 +68,17 @@
 <a target="_blank" rel="noopener noreferrer" href="">
    <img height="35" width="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql"/>
 </a>
+</ul>
 
-#### - Mobile App Development
+- **Mobile App Development**
+<ul>
 <a target="_blank" rel="noopener noreferrer" href="">
    <img height="35" width="50" src="https://reactnative.dev/img/header_logo.svg" alt="react-native"/>
 </a>
+</ul>
 
-#### - Database & Tools
+- **Database & Tools**
+<ul>
 <a target="_blank" rel="noopener noreferrer" href="">
    <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"/>
 </a>
@@ -79,6 +88,7 @@
 <a target="_blank" rel="noopener noreferrer" href="">
    <img height="35" width="50" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe-xd"/>
 </a>
+</ul>
 
 ## Honors & Awards 🏅
 - Received 1st place, Ranked First in Coding Event named Code Catalyst organized by Codechef.
