@@ -133,14 +133,10 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" class=
             <li>Achieved 1874 (Knight), Max. Leetcode Rating under handle <a href="https://leetcode.com/SmitVavliya/">SmitVavliya</a>.
             </li>
         </ul>
-        <div>
-            <a target="_blank" rel="noopener noreferrer" href="#">
-                <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmitVavliya&theme=dark&hide_langs_below=1">
-            </a>
-            <a target="_blank" rel="noopener noreferrer" href="#">
-                <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://github-readme-stats.vercel.app/api?username=SmitVavliya&show_icons=true&theme=highcontrast">
-            </a>
-        </div>
+        <h3 dir="auto">My Github Status 🦸</h3>        
+        <a target="_blank" rel="noopener noreferrer" href="#">
+            <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://github-readme-stats.vercel.app/api?username=SmitVavliya&show_icons=true&theme=default">
+        </a>
         <div align="center" dir="auto">
             <h3 dir="auto">
                 Show some <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> by starring some of the repositories!
