@@ -63,7 +63,7 @@
    <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs"/>
+   <img height="35" width="35" src="https://img.icons8.com/?size=128&id=2ZOaTclOqD4q&format=png" alt="expressjs"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="">
    <img height="35" width="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql"/>
@@ -73,7 +73,7 @@
 - **Mobile App Development**
 <ul>
 <a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://reactnative.dev/img/header_logo.svg" alt="react-native"/>
+   <img height="35" width="35" src="https://reactnative.dev/img/header_logo.svg" alt="react-native"/>
 </a>
 </ul>
 
@@ -86,7 +86,7 @@
    <img height="35" width="50" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="adobe-xd"/>
+   <img height="35" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1024px-Adobe_XD_CC_icon.svg.png?20210729021535" alt="adobe-xd"/>
 </a>
 </ul>
 
